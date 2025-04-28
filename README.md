@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iliana Granados</h1>
 <h3 align="center">A passionate future Full Stack Junior Developer, with some background on Graphic Design!</h3>
 
-- 🌱 I’m currently learning **More of HTML, CSS, PHP and to finally understand JS**
+- 🌱 I’m currently learning **more in depth of HTML, CSS, PHP and hoping to finally understand JS**
 
 - 📫 How to reach me **ilianagranados.05@gmail.com**
 
-- ⚡ Fun fact **i know many facts about cats and singing 'cause i love music**
+- ⚡ Fun fact **when cats show their belly lying down, it means they trust you and i love music for sleep, as they call it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
