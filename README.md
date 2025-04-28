@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ilianagranados.05@gmail.com**
 
-- ⚡ Fun fact **when cats show their belly lying down, it means they trust you and i love music for sleep, as they call it**
+- ⚡ Fun fact **when cats show their belly lying down, it means they trust you! and i love music for sleep, as they call it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
